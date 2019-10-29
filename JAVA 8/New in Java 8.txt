@@ -1,0 +1,6 @@
+- lambda expressions;
+- Functional interfaces;
+- Method References;
+- Default and Static methods in Interfaces;
+- Stream API;
+- Paralelism (Arrays.paralleSort(), .parallelSetAll(), etc.);
