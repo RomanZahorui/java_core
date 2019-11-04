@@ -1,0 +1,3 @@
+https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html
+
+https://docs.oracle.com/javase/tutorial/java/javaOO/examples/MethodReferencesTest.java
